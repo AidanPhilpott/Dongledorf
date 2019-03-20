@@ -1,0 +1,14 @@
+body {
+  background-color: #FDFFD1;
+}
+
+body {
+color: rgb(25,25,25);
+font-family: "HelveticaNeue", "Helvetica Neue", sans-serif;
+font-size: 2rem;
+font-weight: 5rem;
+letter-spacing: 0px;
+line-height: 1.2;
+text-align: center;
+padding-top: 15%;
+}
